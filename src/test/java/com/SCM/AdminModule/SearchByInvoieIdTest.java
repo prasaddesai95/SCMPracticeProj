@@ -1,6 +1,5 @@
 package com.SCM.AdminModule;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.SCM.GenericUtils.BaseClass;
